@@ -1,0 +1,16 @@
+DEKI STUDIOS V2
+================
+Incluye:
+- Nueva portada
+- 4 páginas de categoría
+- Catálogo Pokémon con 114 productos
+- Buscador y filtros por generación
+- 114 fichas individuales
+- CSS responsive y animaciones
+- JavaScript del catálogo
+
+IMPORTANTE:
+Copia tus imágenes de producto dentro de /img respetando exactamente los nombres usados.
+El ZIP incluye logo.png si estaba disponible, pero no duplica todas tus fotos de producto.
+
+Sube el contenido de esta carpeta a la raíz de tu repositorio de GitHub Pages.
